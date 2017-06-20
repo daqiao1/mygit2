@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 dssdsdsdaaa11
+=======
+aiaaa
+aaaa
+>>>>>>> dev
